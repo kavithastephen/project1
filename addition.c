@@ -2,7 +2,7 @@
 int main()
 {
 int a,b,c;
-a=40;
+a=10;
 b=8;
 c=a+b;
 printf("The value of c=%d",c);
